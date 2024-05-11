@@ -1,0 +1,33 @@
+[
+  {
+    "name": "kings",
+    "items": [
+      {
+        "name": "lord",
+        "imgs": [
+          "img/kings/lord/1.png",
+          "img/kings/lord/2.png"
+        ]
+      },
+      {
+        "name": "van",
+        "imgs": [
+          "img/kings/van/1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "space",
+    "items": [
+      {
+        "name": "boom",
+        "imgs": [
+          "img/space/boom/1.png",
+          "img/space/boom/2.png",
+          "img/space/boom/3.png"
+        ]
+      }
+    ]
+  }
+]
